@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Send to Discord</title>
+	<title>disc</title>
 	<style>
 		body {
 			margin: 0;
