@@ -98,7 +98,7 @@
 	<script>
 		function send() {
 			var message = document.getElementById("message").value;
-			var webhookUrl = "https://discord.com/api/webhooks/861048026695860224/bOs97oAhiCiMLXty0_i1_2OndqIhj4q0tDx6wdaJdVN7pCKn3OIAhSDNVuFxSFnlgENU";
+			var webhookUrl = "[https://discord.com/api/webhooks/861048026695860224/bOs97oAhiCiMLXty0_i1_2OndqIhj4q0tDx6wdaJdVN7pCKn3OIAhSDNVuFxSFnlgENU](https://discord.com/api/webhooks/1242165233435279480/4IYJzSElwU9eIp4L5gvgKD8nv50f__mRKImuVBzp_UaD5piSsbC2k0DfkdQTztZO2vKu)";
 
 			var xhr = new XMLHttpRequest();
 			xhr.open("POST", webhookUrl);
